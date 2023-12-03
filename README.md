@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Amanda</h1>
-<h3 align="center">An aspiring developer from Melbourne, Australia. Keen to sink my teeth into everything coding!</h3>
+<h3 align="center">Pharmacist and aspiring developer from Melbourne, Australia. Keen to sink my teeth into everything coding!</h3>
 
-- 🔭 I’m currently working on **a simple budget tracking web app**
+- 🔭 I’m currently working on **a portfolio page to display my projects and skills**
 
-- 🌱 I’m currently learning **To become proficient in front end developing tools**
+- 🌱 I’m currently learning **to utilise Vue for cleaner more managable code**
 
-- 🤝 I’m looking for help with **implementing spotify API into a personal project**
+- 🤝 I’m looking for help with **expanding my portfolio to showcase my tech skills in digital healthcare**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
