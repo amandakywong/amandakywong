@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **to utilise Vue for cleaner more managable code**
 
-- 🤝 I’m looking for help with **expanding my portfolio to showcase my tech skills in digital healthcare**
+- 🤝 I’m looking for help with **expanding my portfolio to showcase my tech skills**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
